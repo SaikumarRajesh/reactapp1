@@ -25,9 +25,9 @@ function App() {
                   <li>Free Subdomain</li>
                   <li>Monthly Status Report</li>
                 </ul>
-                <div className='d-grid '>
-                  <a  href='#' className="btn btn-primary btn-lg btn-block button" >Button</a>
-                </div>
+                <div className="d-grid">
+              <a href="/" className="btn btn-primary btn-block text-uppercase">Button</a>
+            </div>
               </div>
             </div>
           </div>
@@ -47,9 +47,9 @@ function App() {
                   <li>Free Subdomain</li>
                   <li>Monthly Status Report</li>
                 </ul>
-                <div className='d-grid'>
-                  <a href='#'className="btn btn-primary btn-lg btn-block button" >Button</a>
-                </div>
+                <div className="d-grid">
+              <a href="/" className="btn btn-primary btn-block text-uppercase">Button</a>
+            </div>
               </div>
             </div>
           </div>
@@ -69,9 +69,9 @@ function App() {
                   <li>Free Subdomain</li>
                   <li>Monthly Status Report</li>
                 </ul>
-                <div className='d-grid '>
-                  <a   href='#'className="btn btn-primary btn-lg btn-block button">Button</a>
-                </div>
+                <div className="d-grid">
+              <a href="/" className="btn btn-primary btn-block text-uppercase">Button</a>
+            </div>
               </div>
             </div>
           </div>
